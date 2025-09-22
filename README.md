@@ -1,7 +1,7 @@
 # FirstRAGpipelineARGOfloat
 
 Argo Float AI RAG Chatbot
-📝 Overview
+# 📝 Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to create an intelligent chatbot. The chatbot is designed to answer questions and explain concepts based on the contents of a specific document about the Argo Float project. It uses Google's Gemini models for both embedding the document text and generating answers, ensuring high-quality, context-aware responses.
 ✨ Features
 Document Loading: Loads text directly from a .docx file.
