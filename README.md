@@ -2,8 +2,8 @@
 # 📝 Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to create an intelligent chatbot. The chatbot is designed to answer questions and explain concepts based on the contents of a specific document about the Argo Float project. It uses Google's Gemini models for both embedding the document text and generating answers, ensuring high-quality, context-aware responses.
 # ✨ Features
-Document Loading: Loads text directly from a .docx file.
-Text Chunking: Splits the document into smaller, manageable chunks for efficient processing.
+-Document Loading: Loads text directly from a .docx file.
+-Text Chunking: Splits the document into smaller, manageable chunks for efficient processing.
 Vector Embeddings: Utilizes Google's embedding-001 model to create numerical representations (vectors) of the text chunks.
 Vector Storage: Stores and indexes the vectors using ChromaDB for fast and efficient retrieval.
 RAG Chain: Implements a complete RAG pipeline using LangChain.
